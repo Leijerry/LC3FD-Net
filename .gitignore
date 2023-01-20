@@ -1,0 +1,11 @@
+*.npy
+*.pyc
+*.log
+*.tar
+*.yaml
+*.aurora
+*.sasquatch
+*.zip
+logs/
+.vscode/
+datasets/

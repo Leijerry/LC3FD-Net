@@ -1,0 +1,8 @@
+numpy
+tensorboardX
+matplotlib
+tqdm
+pytz
+imageio
+PyYAML
+open3d
